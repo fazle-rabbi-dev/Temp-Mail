@@ -17,8 +17,9 @@
 
 * `python app.py`
 
-## Screenshot
+## Screenshots
 <p align="center">
-<img width="60%" height="60%" src="https://user-images.githubusercontent.com/71178740/204269147-5196b782-cd95-4c30-bb51-cd70a7ad73cc.png" alt="Screenshot" />
+<img width="40%" height="40%" src="https://user-images.githubusercontent.com/71178740/204269147-5196b782-cd95-4c30-bb51-cd70a7ad73cc.png" alt="Screenshot" />
+<img width="40%" height="40%" src="https://user-images.githubusercontent.com/71178740/204273100-e07dd583-101b-419f-baf7-12787203036d.png" alt="Screenshot" />
 </p>
 
